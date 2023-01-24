@@ -27,14 +27,14 @@ Optimal Path<br>(length = 1368)            |  Our Output by SA<br>(length = 1464
 ### **<u>379 VLSI Data Points:</u>**
 Optimal Path<br>(length = 1332)            |  Our Output by SA<br>(length = 1518)
 :-------------------------:|:-------------------------:
-<img src="https://www.math.uwaterloo.ca/tsp/vlsi/pka379.tour.gif" width=1890 height=130>  |  ![](Images/379_output.png)
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/pka379.tour.gif" width=390 height=200>  |  <img src="Images/379_output.png" width=390 height=200>
 
 <br>
 
 ### **<u>380 VLSI Data Points:</u>**
 Optimal Path<br>(length = 1621)            |  Our Output by SA<br>(length = 1518)
 :-------------------------:|:-------------------------:
-<img src="https://www.math.uwaterloo.ca/tsp/vlsi/bcl380.tour.gif" width=300 height=500>  |  ![](Images/380_output.png)
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/bcl380.tour.gif" width=200 height=390>  |  <img src="Images/380_output.png" width=200 height=390>
 
 ---
 <br>
