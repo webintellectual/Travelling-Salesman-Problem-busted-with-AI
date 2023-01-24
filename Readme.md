@@ -1,24 +1,66 @@
-## Caution:
+
+
+---
+<br>
+
+### **<u>131 VLSI Data Points:</u>**
+Optimal Path <br> (length = 564)            |  Our Output by SA <br> (length = 646)
+:-------------------------:|:-------------------------:
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/xqf131.tour.gif" width=575 height=400>  |  ![](Images/131_output.png)
+
+<br>
+
+### <u>**237 VLSI Data Points:**</u>
+Optimal Path<br>(length = 1019)            |  Our Output by SA<br>(length = 1156)
+:-------------------------:|:-------------------------:
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/xqg237.tour.gif" width=600 height=400>  |  ![](Images/237_output.png)
+
+<br>
+
+### **<u>343 VLSI Data Points:</u>**
+Optimal Path<br>(length = 1368)            |  Our Output by SA<br>(length = 1464)
+:-------------------------:|:-------------------------:
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/pma343.tour.gif" width=1850 height=130>  |  ![](Images/343_output.png)
+
+<br>
+
+### **<u>379 VLSI Data Points:</u>**
+Optimal Path<br>(length = 1332)            |  Our Output by SA<br>(length = 1518)
+:-------------------------:|:-------------------------:
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/pka379.tour.gif" width=1890 height=130>  |  ![](Images/379_output.png)
+
+<br>
+
+### **<u>380 VLSI Data Points:</u>**
+Optimal Path<br>(length = 1621)            |  Our Output by SA<br>(length = 1518)
+:-------------------------:|:-------------------------:
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/bcl380.tour.gif" width=300 height=500>  |  ![](Images/380_output.png)
+
+---
+<br>
+<br>
+
+### **<u>Rajasthan dataset</u>**:
+Initial Random Path <br>(5272.22 km)           |  Output by SA <br> (2148.81 km)
+:-------------------------:|:-------------------------:
+![](Images/raj_init.png)  |  ![](Images/raj_output.png)
+
+---
+## <u>⚠ **CAUTION**</u>:
 © You must take permission from me before using this code in your work/project. <br>
 Following attributes are mandatory: <br>
-Linkedin: https://www.linkedin.com/in/akshay-189a48200/ <br>
+GitHub: https://github.com/webintellectual/Travelling-Salesman-Problem-busted-with-AI <br>
+Linkedin: 
+- https://www.linkedin.com/in/akshay-189a48200/ <br>
+- https://www.linkedin.com/in/ankur-kumar-shukla-3581b11b8/ <br>
+- https://www.linkedin.com/in/kalash-kala/
+- https://www.linkedin.com/in/keshav-garg-885238202/
+
 Medium: https://medium.com/@warriorak77 <br>
-Twitter: https://twitter.com/webrational <br>
 
 ---
 
-Initial Random Tour of Rajasthan:
-
-<img src="Images/raj_init.png" width=400>
-
-<br>
-Final Tour Route for Rajasthan outputed by SA:
-
-<img src="Images/raj_final.png" width=400>
-
-<br>
-
-### **REFERENCES**:
+### **MY REFERENCES**:
 Helped in code implementation:
 
 - [Haversine formula](https://www.geeksforgeeks.org/program-distance-two-points-earth/) to calculate distance b/w two locations using latitude and longitude values.
