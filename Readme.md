@@ -37,7 +37,7 @@ Optimal Path<br>(length = 1621)            |  Our Output by SA<br>(length = 1518
 <img src="https://www.math.uwaterloo.ca/tsp/vlsi/bcl380.tour.gif" width=390 height=580>  |  <img src="Images/380_output.png" width=390 height=580>
 
 ---
-<br>
+---
 
 ### **<u>Rajasthan dataset</u>**:
 Initial Random Path <br>(5272.22 km)           |  Output by SA <br> (2148.81 km)
