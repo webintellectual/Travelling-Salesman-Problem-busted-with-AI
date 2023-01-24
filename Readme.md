@@ -1,4 +1,5 @@
 
+**ALGORITHM USED** : Simulated Annealing
 
 ---
 <br>
