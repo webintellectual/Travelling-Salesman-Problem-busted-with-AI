@@ -2,7 +2,6 @@
 **ALGORITHM USED** : Simulated Annealing
 
 ---
-<br>
 
 ### **<u>131 VLSI Data Points:</u>**
 Optimal Path <br> (length = 564)            |  Our Output by SA <br> (length = 646)
