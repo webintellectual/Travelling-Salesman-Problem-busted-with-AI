@@ -6,7 +6,7 @@
 ### **<u>131 VLSI Data Points:</u>**
 Optimal Path <br> (length = 564)            |  Our Output by SA <br> (length = 646)
 :-------------------------:|:-------------------------:
-<img src="https://www.math.uwaterloo.ca/tsp/vlsi/xqf131.tour.gif" width=575 height=400>  |  ![](Images/131_output.png)
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/xqf131.tour.gif" width=575 height=400>  |  <img src="Images/131_output.png" width=575 height=400>
 
 <br>
 
