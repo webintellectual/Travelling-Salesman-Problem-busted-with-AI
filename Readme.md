@@ -27,7 +27,7 @@ Optimal Path<br>(length = 1368)            |  Our Output by SA<br>(length = 1464
 ### **<u>379 VLSI Data Points:</u>**
 Optimal Path<br>(length = 1332)            |  Our Output by SA<br>(length = 1518)
 :-------------------------:|:-------------------------:
-<img src="https://www.math.uwaterloo.ca/tsp/vlsi/pka379.tour.gif" width=390 height=200>  |  <img src="Images/379_output.png" width=390 height=200>
+<img src="https://www.math.uwaterloo.ca/tsp/vlsi/pka379.tour.gif" width=780 height=400>  |  <img src="Images/379_output.png" width=780 height=400>
 
 <br>
 
