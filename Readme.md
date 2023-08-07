@@ -45,19 +45,6 @@ Initial Random Path <br>(5272.22 km)           |  Output by SA <br> (2148.81 km)
 ![](Images/raj_init.png)  |  ![](Images/raj_output.png)
 
 ---
-## <u>⚠ **CAUTION**</u>:
-© You must take permission from me before using this code in your work/project. <br>
-Following attributes are mandatory: <br>
-GitHub: https://github.com/webintellectual/Travelling-Salesman-Problem-busted-with-AI <br>
-Linkedin: 
-- https://www.linkedin.com/in/akshay-189a48200/ <br>
-- https://www.linkedin.com/in/ankur-kumar-shukla-3581b11b8/ <br>
-- https://www.linkedin.com/in/kalash-kala/
-- https://www.linkedin.com/in/keshav-garg-885238202/
-
-Medium: https://medium.com/@warriorak77 <br>
-
----
 
 ### **MY REFERENCES**:
 Helped in code implementation:
@@ -68,3 +55,12 @@ Helped in code implementation:
 - [TSPLIB 95](https://pypi.org/project/tsplib95/) python library by [Robert Grant](https://github.com/rhgrant10)
 
 [VLSI Datset](https://www.math.uwaterloo.ca/tsp/vlsi/index.html) provided by [Andre Rohe](https://www.linkedin.com/in/andre-rohe-647521/)
+
+---
+
+## <u>⚠ **CAUTION**</u>:
+© You must take permission from me before using this code in your work/project. <br>
+Following attributes are mandatory: <br>
+GitHub: https://github.com/webintellectual/Travelling-Salesman-Problem-busted-with-AI <br>
+Linkedin: https://www.linkedin.com/in/akshay-189a48200/ <br>
+Medium: https://medium.com/@warriorak77 <br>
